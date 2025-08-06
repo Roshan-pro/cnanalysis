@@ -1,4 +1,4 @@
-## CNAnalysis
+## CNAnalysis(https://pypi.org/project/cnanalysis/0.1.0/)
     CNAnalysis is a Python package for comprehensive statistical and exploratory data analysis (EDA). It provides tools for performing ANOVA, Chi-square tests, correlation matrices, outlier handling, encoding categorical features, and visualizing distributions.
 
 ## 📦 Installation
@@ -83,4 +83,5 @@ pip install cnanalysis
 **📧 rk1861303@gmail.com**
 
 ## 📝 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
